@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prashastkarmahe
-- 👀 I’m interested in frontend development and competitive programming
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in Fullstack development and competitive programming
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
